@@ -1,5 +1,5 @@
   document.addEventListener("DOMContentLoaded", () => {
-    console.log("SNBLA snippet loaded for merchant", {{store.id}});
+    console.log("SNBLA snippet loaded for merchant");
 
     const STORE_ID = {{store.id}}; // Salla injects this
 
